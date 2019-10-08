@@ -1,3 +1,2 @@
 <?php
-  echo "test2";
- ?>
+  echo "テスト2";
